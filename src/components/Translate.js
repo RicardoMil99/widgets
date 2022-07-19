@@ -26,6 +26,30 @@ const options = [
     label:'French',
     value: 'fr',
   },
+  {
+    label:'Portuguese',
+    value: 'pt',
+  },
+  {
+    label:'German',
+    value: 'de',
+  },
+  {
+    label:'Italian',
+    value: 'it',
+  },
+  {
+    label:'Japanese',
+    value: 'ja',
+  },
+  {
+    label:'Latin',
+    value: 'la',
+  },
+  {
+    label:'Spanish',
+    value: 'es',
+  },
 ];
 
 
